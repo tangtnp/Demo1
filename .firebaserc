@@ -1,7 +1,8 @@
 {
   "projects": {
     "default": "cicd1-9daa4",
-    "learning": "cicd1-9daa4"
+    "learning": "cicd1-9daa4",
+    "LEARNING": "cicd1-9daa4"
   },
   "targets": {},
   "etags": {}
